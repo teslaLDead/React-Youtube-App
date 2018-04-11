@@ -4,7 +4,7 @@ A react based YouTube video viewer.
 
 ### Getting Started
 
-####Dependencies-
+#### Dependencies
 
 Nodejs - For npm
 
