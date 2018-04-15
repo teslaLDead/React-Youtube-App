@@ -7,6 +7,7 @@ A react based application that shows Youtube videos realted to the search query.
 #### Dependencies
 
 Nodejs - For npm
+
 Google Api Key- For Youtube Search Api
 
 Clone the repo in your computer
